@@ -12,3 +12,4 @@ FirmwareSizePrint.cmake
 FirmwareUpload.cmake
 Makefile
 CMakeFiles
+.idea/
