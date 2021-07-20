@@ -1,0 +1,14 @@
+*.cbp
+Testing/
+*.elf
+*.hex
+*.eep
+*.a
+ArduinoSystem.cmake
+cmake_install.cmake
+CMakeCache.txt
+ExecuteRecipe.cmake
+FirmwareSizePrint.cmake
+FirmwareUpload.cmake
+Makefile
+CMakeFiles
